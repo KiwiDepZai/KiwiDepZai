@@ -47,9 +47,6 @@ Current Focus:
 Experience:
   - 9+ Premium Plugins Released
   - Hundreds of Minecraft Servers Supported
-
-Team:
-  - Vanderis Team
 ```
 
 <br>
@@ -143,34 +140,6 @@ Team:
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/DragonTSO/ItemsNameTags">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DragonTSO&repo=ItemsNameTags&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/DragonTSO/MythicWeapon">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DragonTSO&repo=MythicWeapon&theme=tokyonight"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/DragonTSO/TurtleGopy">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DragonTSO&repo=TurtleGopy&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/DragonTSO/TurtleAutoSell">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DragonTSO&repo=TurtleAutoSell&theme=tokyonight"/>
-</a>
-
-</p>
-
----
-
 # 📈 Profile
 
 <p align="center">
@@ -189,7 +158,7 @@ Team:
 
 <p align="center">
 
-<a href="https://github.com/DragonTSO">
+<a href="https://github.com/KiwiDepZai">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
